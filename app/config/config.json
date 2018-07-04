@@ -1,12 +1,12 @@
 {
 	"db": {
-		"username": "<MongoDBUsername>",
-		"password": "<MongoDBPassword>",
-		"host": "<MongoDBHost>",
-		"port": "<MongoDBPort>",
-		"name": "<MongoDBName>"
+		"username": "inventa-chat-admin",
+		"password": "inventa@12",
+		"host": "ds125841.mlab.com",
+		"port": "25841",
+		"name": "inventa-chat"
 	},
-	"sessionSecret": "<RandomString>",
+	"sessionSecret": "inventa@12",
 	"facebook": {
 		"clientID": "<AppID>",
 		"clientSecret": "<AppSecret>",
