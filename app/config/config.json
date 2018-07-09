@@ -1,10 +1,10 @@
 {
 	"db": {
-		"username": "inventa-chat-admin",
-		"password": "inventa@12",
+		"username": "jainjeet93",
+		"password": "jainjeet93",
 		"host": "ds125841.mlab.com",
 		"port": "25841",
-		"name": "inventa-chat"
+		"name": "ohaichat"
 	},
 	"sessionSecret": "inventa@12",
 	"facebook": {
